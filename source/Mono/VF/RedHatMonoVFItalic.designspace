@@ -5,7 +5,8 @@
       <labelname xml:lang="en">Weight</labelname>
       <map input="300" output="300"/>
       <map input="400" output="400"/>
-      <map input="500" output="535.800000"/>
+      <map input="500" output="535"/>
+      <map input="600" output="600"/>
       <map input="700" output="700"/>
     </axis>
   </axes>
@@ -47,7 +48,14 @@
       </instance>
     <instance familyname="Red Hat Mono VF" stylename="Medium Italic" filename="instances/RedHatMonoVF-MediumItalic.ufo" postscriptfontname="RedHatMonoVF-MediumItalic">
       <location>
-        <dimension name="Weight" xvalue="535.800000"/>
+        <dimension name="Weight" xvalue="535"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Red Hat Mono VF" stylename="SemiBold Italic" filename="instances/RedHatMonoVF-SemiBoldItalic.ufo" postscriptfontname="RedHatMonoVF-SemiBoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
       </location>
       <kerning/>
       <info/>
